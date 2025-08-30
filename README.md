@@ -1,73 +1,132 @@
-# 👋 Hey there, I'm **Vishwas**  
+<p align="center">
+  <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#00c6ff"/>
+        <stop offset="100%" stop-color="#0072ff"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="300" fill="url(#gradient)"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          font-size="80" font-family="Verdana" fill="white">
+      Vishwas
+    </text>
+    <path d="M0 200 Q300 250 600 200 T1200 200 V300 H0 Z" fill="rgba(255,255,255,0.3)">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0 200 Q300 250 600 200 T1200 200 V300 H0 Z;
+          M0 180 Q300 230 600 180 T1200 180 V300 H0 Z;
+          M0 200 Q300 250 600 200 T1200 200 V300 H0 Z" />
+    </path>
+    <path d="M0 220 Q300 270 600 220 T1200 220 V300 H0 Z" fill="rgba(255,255,255,0.2)">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="
+          M0 220 Q300 270 600 220 T1200 220 V300 H0 Z;
+          M0 200 Q300 250 600 200 T1200 200 V300 H0 Z;
+          M0 220 Q300 270 600 220 T1200 220 V300 H0 Z" />
+    </path>
+  </svg>
+</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=🚀+Web+Developer+in+the+Making;💡+DSA+Explorer;🎨+UI+%26+UX+Dreamer;🔥+Always+Learning%2C+Always+Building" alt="Typing animation" />
+</p>
 
 ---
 
-## 🚀 About Me  
-- 👀 Passionate about **DSA | Web Dev | UI/UX**  
-- 🌱 Currently learning **Full-Stack Web Development**  
-- 🎨 Love mixing **design + logic** to build modern apps  
-- 🧩 Always curious to solve problems & explore tech  
-
----
-
-## 🔥 Tech Stack  
+## ⚡ About Me  
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Focus](https://img.shields.io/badge/Focus-DSA-blueviolet?style=for-the-badge&logo=codeforces)  
+![Learning](https://img.shields.io/badge/Learning-Web%20Development-ff69b4?style=for-the-badge&logo=react)  
+![Passion](https://img.shields.io/badge/Passion-UI%20%26%20UX-yellow?style=for-the-badge&logo=figma)  
 
-</div>  
+🎶 Beatboxing in free time • ☕ Coffee-fueled coding sessions • 🌌 Always exploring  
 
 ---
 
-## 📊 GitHub Stats  
+✨ **Passionate about**  
+`DSA` • `Web Development` • `UI/UX`  
 
-<div align="center">
-  
-![Vishwas' GitHub stats](https://github-readme-stats.vercel.app/api?username=VishwaS-01-T&show_icons=true&theme=radical)  
+🌱 **Currently leveling up in**  
+`Full-Stack Web Dev`  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaS-01-T&layout=compact&theme=radical)  
+🔥 **Life Philosophy**  
+*"Make it work, make it beautiful, make it unforgettable."*  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VishwaS-01-T&theme=radical)  
+</div>
 
-</div>  
+---
+
+## 🎨 Tech Playground  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,figma,git,github,vscode&theme=light" />
+</p>
+
+---
+
+## 🚀 GitHub Universe  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishwaS-01-T&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaS-01-T&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaS-01-T&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
 ## 🎯 Fun Section  
 
-> 💡 “Code is like humor. When you have to explain it, it’s bad.”  
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
 
-🎵 Jamming while coding | ☕ Powered by coffee | 🚀 Dreaming big  
+🎵 Jamming while coding • ☕ Powered by coffee • 🚀 Dreaming big  
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">  
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>  
+</p>
 
 ---
 
 ## 📫 Connect with Me  
 
-📧 **Email**: [vishwasdeepsingh1234@gmail.com](mailto:vishwasdeepsingh1234@gmail.com)  
-🌐 **Portfolio (Coming Soon... 👀)**  
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/VishwaS-01-T)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasdeepsingh1234@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwaS-01-T)
 
-</div>  
+</div>
 
 ---
-⭐️ From [VishwaS-01-T](https://github.com/VishwaS-01-T)
 
-<!---
-VishwaS-01-T/VishwaS-01-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">✨ "Let's build something the world has never seen before." ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path d="M0 60 Q300 90 600 60 T1200 60 V120 H0 Z" fill="rgba(0, 114, 255, 0.3)">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0 60 Q300 90 600 60 T1200 60 V120 H0 Z;
+          M0 50 Q300 80 600 50 T1200 50 V120 H0 Z;
+          M0 60 Q300 90 600 60 T1200 60 V120 H0 Z" />
+    </path>
+    <path d="M0 80 Q300 110 600 80 T1200 80 V120 H0 Z" fill="rgba(0, 114, 255, 0.2)">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="
+          M0 80 Q300 110 600 80 T1200 80 V120 H0 Z;
+          M0 70 Q300 100 600 70 T1200 70 V120 H0 Z;
+          M0 80 Q300 110 600 80 T1200 80 V120 H0 Z" />
+    </path>
+  </svg>
+</p>
+
