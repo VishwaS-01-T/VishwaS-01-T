@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,18,21&height=200&section=header&text=Vishwas&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
-
+You said:
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,18,21&height=200&section=header&text=Vishwas&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" /> </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
