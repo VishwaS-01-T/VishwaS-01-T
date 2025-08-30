@@ -1,33 +1,13 @@
-<p align="center">
-  <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#00c6ff"/>
-        <stop offset="100%" stop-color="#0072ff"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="300" fill="url(#gradient)"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
-          font-size="80" font-family="Verdana" fill="white">
-      Vishwas
-    </text>
-    <path d="M0 200 Q300 250 600 200 T1200 200 V300 H0 Z" fill="rgba(255,255,255,0.3)">
-      <animate attributeName="d" dur="6s" repeatCount="indefinite"
-        values="
-          M0 200 Q300 250 600 200 T1200 200 V300 H0 Z;
-          M0 180 Q300 230 600 180 T1200 180 V300 H0 Z;
-          M0 200 Q300 250 600 200 T1200 200 V300 H0 Z" />
-    </path>
-    <path d="M0 220 Q300 270 600 220 T1200 220 V300 H0 Z" fill="rgba(255,255,255,0.2)">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite"
-        values="
-          M0 220 Q300 270 600 220 T1200 220 V300 H0 Z;
-          M0 200 Q300 250 600 200 T1200 200 V300 H0 Z;
-          M0 220 Q300 270 600 220 T1200 220 V300 H0 Z" />
-    </path>
-  </svg>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,18,21&height=200&section=header&text=Vishwas&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  </a>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=🚀+Web+Developer+in+the+Making;💡+DSA+Explorer;🎨+UI+%26+UX+Dreamer;🔥+Always+Learning%2C+Always+Building" alt="Typing animation" />
