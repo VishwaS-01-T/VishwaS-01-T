@@ -1,4 +1,10 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18&height=200&section=header&text=Vishwas&fontSize=60&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" /> </div>
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,45,135&height=200&section=header&text=Vishwas&fontSize=60&animation=fadeIn&fontAlignY=35" 
+    width="100%" 
+  />
+</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
