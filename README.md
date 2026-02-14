@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=🚀+Web+Developer+in+the+Making;💡+DSA+Explorer;🎨+UI+%26+UX+Dreamer;🔥+Always+Learning%2C+Always+Building" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=🚀+Web+Developer;💡+DSA;🎨+UI+%26+UX+Explorer;🔥+Always+Learning%2C+Always+Building" alt="Typing animation" />
 </p>
 
 ---
