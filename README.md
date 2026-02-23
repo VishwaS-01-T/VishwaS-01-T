@@ -81,7 +81,9 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasdeepsingh1234@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwasdeep-singh/)  
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BLINUS1508)
+<a href="https://x.com/BLINUS1508">
+  <img src="https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
