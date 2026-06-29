@@ -5,7 +5,6 @@
   />
 </div>
 
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   </a>
@@ -53,12 +52,12 @@
 ## 🚀 GitHub Universe  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishwaS-01-T&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaS-01-T&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishwaS-01-T&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaS-01-T&theme=tokyonight&hide_border=true&v=1" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaS-01-T&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaS-01-T&theme=tokyo-night&hide_border=true&area=true&v=1" />
 </p>
 
 ---
@@ -114,12 +113,9 @@
   </svg>
 </p>
 
-
-
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,45,135&height=100&section=footer" 
     width="100%" 
   />
 </div>
-
